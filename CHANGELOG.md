@@ -1,7 +1,3 @@
-## 2.0.0
-
-* Migrate to null safety
-
 ## 1.0.2
 
 - Fixes Android build error with missing trigger method. By @athornz
